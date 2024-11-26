@@ -1,0 +1,29 @@
+*.pyc
+*.bkp
+*.bkp.*
+**/__pycache__/
+db.sqlite3
+.env*
+**/tmp
+package.json
+package-lock.json
+node_modules
+
+
+# PyCharm
+.idea/
+celerybeat.pid
+
+# MACOS Files
+.DS_Store
+
+
+# Py env/virtual-env
+Pipfile
+
+# VSCode
+.vscode
+
+# Pyenv & venv
+.python-version
+.venv/
